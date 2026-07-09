@@ -10,3 +10,6 @@ processed/
 __pycache__/
 
 
+vector_store/
+
+
